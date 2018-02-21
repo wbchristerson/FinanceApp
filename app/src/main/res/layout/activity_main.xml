@@ -18,7 +18,7 @@
             android:scaleType="center" />
 
         <TextView
-            android:text="Follow a company"
+            android:text="@string/follow_company"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -28,40 +28,41 @@
             android:textColor="@android:color/black" />
 
         <TextView
-            android:text="Make a call"
+            android:text="@string/make_call"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
 
         <TextView
-            android:text="Make a put"
+            android:text="@string/make_put"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
 
         <TextView
-            android:text="Buy stock"
+            android:text="@string/buy_stock"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
 
         <TextView
-            android:text="Buy bond"
+            android:text="@string/buy_bond"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
 
         <TextView
-            android:text="Learn more"
+            android:text="@string/learn_more"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center" />
 
         <Button
+            android:id="@+id/info_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Information"
+            android:text="@string/information"
             android:onClick="showInformation"/>
     </LinearLayout>
 
