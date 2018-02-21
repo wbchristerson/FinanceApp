@@ -62,8 +62,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="@string/information"
-            android:onClick="showInformation"/>
+            android:text="@string/information" />
     </LinearLayout>
 
 </ScrollView>
