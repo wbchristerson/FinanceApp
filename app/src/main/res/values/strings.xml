@@ -1,17 +1,12 @@
 <resources>
     <string name="app_name">Finance App</string>
-
     <string name="follow_company">Follow A Company</string>
-
     <string name="make_call">Make A Call</string>
-
     <string name="make_put">Make A Put</string>
-
     <string name="buy_stock">Buy A Stock</string>
-
     <string name="buy_bond">Buy A Bond</string>
-
     <string name="learn_more">Learn More</string>
-
     <string name="information">Information</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
 </resources>
