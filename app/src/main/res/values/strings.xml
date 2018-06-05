@@ -9,4 +9,7 @@
     <string name="information">Information</string>
     <string name="start">Start</string>
     <string name="finish">Finish</string>
+    <string name="options_content">A contract to buy or sell an asset, often a stock, at a later date. A European option
+        is one in which the exercise date is fixed, while an American option is one in which the exercise date can be any
+        time up to the listed exercise date.</string>
 </resources>
